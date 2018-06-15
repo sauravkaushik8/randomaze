@@ -1,9 +1,9 @@
 # randomaze
   A Random Maze framework to build reinforcent learning players on top of.
 
-                           Install from GitHub :  pip3 install git+git://github.com/sauravkaushik8/randomaze.git
-                                                           OR 
-                                      Install from PyPi :  pip3 install randomaze
+                  Install from GitHub :  pip3 install git+git://github.com/sauravkaushik8/randomaze.git
+                                                     OR 
+                                Install from PyPi :  pip3 install randomaze
 
 ### Example: 
 
